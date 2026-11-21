@@ -1,5 +1,5 @@
 # SCHMTJ Logistics Services
-
+![alt text](image.png)
 Option B is the navy-and-gold A380 tarmac presentation: a centred "Your Trusted Partner" headline, floating glass navigation, animated routes from Abuja, and a translucent statistics band. The React, TypeScript, Vite, and Tailwind frontend retains the working animal-to-quote flow and editable WhatsApp/email enquiry drafts.
 
 ## Run locally
